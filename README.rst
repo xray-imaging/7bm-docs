@@ -11,5 +11,3 @@ Features
 
 * Documentation: https://7bm-docs.readthedocs.io
 * Issue Tracker: https://github.com/xray-imaging/7bm-docs/issues
-
-
