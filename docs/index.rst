@@ -19,6 +19,7 @@ Content
 
    source/about
    source/manual
+   source/links
    source/troubleshoot
    source/support
 
