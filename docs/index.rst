@@ -3,7 +3,7 @@
 =========
 
 
-.. image:: source/img/project-logo.png
+.. image:: source/img/eg_injector.jpg
    :width: 320px
    :align: center
    :alt: project
