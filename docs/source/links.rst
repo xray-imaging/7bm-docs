@@ -1,5 +1,5 @@
 ===============
-Support
+Useful Links
 ===============
 
 `7-BM page on APS website <https://aps.anl.gov/Sector-7/7-BM>`_.
