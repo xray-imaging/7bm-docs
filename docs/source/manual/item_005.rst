@@ -1,36 +1,16 @@
 Detectors
 =========
 
-.. contents:: 
-   :local:
+Cameras
+-------------
 
-Here are the model/part number of the detectors in use at 2-BM. 
+========  ===========  =============  =================
+IOC Name  Pixel size   H x V          Interface
+--------  ----------   -------------  -----------------
+7bm_ps1   6.45 um      1360 x 1080    GigE
+7bm_pg1   5.86 um      1920 x 1200    USB3
+7bm_pg2   5.86 um      1920 x 1200    USB3
+7bm_pg3   5.86 um      1920 x 1200    USB3
+7bm_pg4   3.45 um      4096 x 3000    USB3
+========  ===========  =============  ===============
 
-PCO dimax
----------
-
-.. image:: ../img/dimax_01.png
-   :width: 320px
-   :align: center
-   :alt: dimax_01
-
-
-.. image:: ../img/dimax_02.png
-   :width: 320px
-   :align: center
-   :alt: dimax_02
-
-
-.. image:: ../img/dimax_03.png
-   :width: 320px
-   :align: center
-   :alt: dimax_03
-
-
-Flir Orx
---------
-
-.. image:: ../img/flir.png
-   :width: 320px
-   :align: center
-   :alt: flir

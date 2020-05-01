@@ -1,8 +1,6 @@
 Detector Startup
 ================
 
-.. contents:: 
-   :local:
 Cameras  
 -------------
 
@@ -29,9 +27,9 @@ Likewise, to stop this IOC (for example, before powering it off), type::
 
 For the FLIR (Point Grey) cameras, the number of the camera (1-4) is on a label on the camera.  These cameras are
 USB3, which means that the IOC must run on the computer to which the camera is physically connected.
-To start the areaDetector IOC for camera *n*, type::
+To start the areaDetector IOC for camera 1, for example, type::
 
-    $ ~/bin/start_IOC_pg*n*
+    $ ~/bin/start_IOC_pg1
 
 To stop the IOC, type::
 
