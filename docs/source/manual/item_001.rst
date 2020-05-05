@@ -5,9 +5,10 @@ There are several warning alarms in and around 7-BM-B, in addition to the typica
 
 ============================    ================================    ================================    ===========================================================
 Monitored Condition             Indicator                           Location                            Action to Take
-----------------------------    --------------------------------    --------------------------------    -----------------------------------------------------------
+============================    ================================    ================================    ===========================================================
 Ozone buildup in 7-BM-B         Red warning light and siren         Near 7-BM-B door control            Exit hutch and stay out; wait for ozone to dissipate
 Oxygen deficiency in 7-BM-B     White flashing strobe and siren     Inside 7-BM-B near ratchet door     Exit hutch and stay out; call floor coordinator
 Fuel vapors in 7-BM-B           Red warning light and siren         Inside 7-BM-B, downstream wall      Exit hutch and stay out; correct source of vapors
 Radiation monitor               Red warning light and siren         Outside 7-BM-B, downstream wall     If continuous, exit area and call main control room
-----------------------------    --------------------------------    --------------------------------    -----------------------------------------------------------
+============================    ================================    ================================    ===========================================================
+
