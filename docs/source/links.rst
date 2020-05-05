@@ -19,7 +19,7 @@ APS Links
 
 `Argonne Site Map <https://www.anl.gov/downloads/map-argonne>`_
 
-`Argonne Guest House <https://www.anlgh.org>'_
+`Argonne Guest House <https://www.anlgh.org>`_
 
 `APS User Portal <https://beam.aps.anl.gov/pls/apsweb/usercheckin.start_page>`_
 
