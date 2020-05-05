@@ -9,6 +9,8 @@ APS Links
 
 `APS Long-Range Schedule <https://www.aps.anl.gov/Machine-Status/APS-Long-Range-Operations-Schedule>`_
 
+`ESAF <https://beam.aps.anl.gov/pls/apsweb/esaf0001.start_page>`_
+
 `7-BM page on APS website <https://aps.anl.gov/Sector-7/7-BM>`_
 
 `APS Detector Pool <https://aps.anl.gov/Detectors/Detector-Pool>`_
