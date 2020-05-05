@@ -9,7 +9,7 @@ APS Links
 
 `APS Long-Range Schedule <https://www.aps.anl.gov/Machine-Status/APS-Long-Range-Operations-Schedule>`_
 
-`7-BM page on APS website <https://aps.anl.gov/Sector-7/7-BM>`_.
+`7-BM page on APS website <https://aps.anl.gov/Sector-7/7-BM>`_
 
 `APS Detector Pool <https://aps.anl.gov/Detectors/Detector-Pool>`_
 
@@ -23,7 +23,7 @@ APS Links
 
 
 X-Ray Links
------------
+-------------
 
 `CRXO X-Ray Interactions with Matter <http://henke.lbl.gov/optical_constants/>`_
 
