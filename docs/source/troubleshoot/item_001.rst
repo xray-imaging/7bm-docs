@@ -1,33 +1,12 @@
-Bluesky time out error
-======================
+Starting Control Screens
+==========================
 
 .. contents:: 
    :local:
 
-If you get this time out error::
+If the beamline computer needs to be rebooted for some reason, or if the main window for the control screens gets closed, you will need to restart them manually.  The easiest way to do this is to go to a terminal on the Linux control computer ant type::
+    $ cd ~/bin
+    $ ./start_epics_auto
 
-    <class 'str'>: (<class 'TimeoutError'>, TimeoutError('Failed to connect to mona:StopAcquisition',))
-
-
-at the end of a scan using bluesky verify that the soft IOC providing the PV "mona:StopAcquisition" is up and running with::
-
-
-    [user2bmb@lyra,47,startup]$ cd ~/.ipython/profile_2bmb/startup/
-    [user2bmb@lyra,52,startup]$ caget mona:StopAcquisition
-
-if you get::
-
-    Channel connect timed out: 'mona:StopAcquisition' not found
-
-then you need to start the soft IOC with::
-
-    [user2bmb@lyra,47,startup]$ cd ~/.ipython/profile_2bmb/startup/
-    
-    screen
-    softIoc -d mona.db
-    keypresses: [^a] then [d]
-
-and you will get::
-
-    [user2bmb@lyra,46,startup]$ caget mona:StopAcquisition
-    mona:StopAcquisition           Ok
+If this works properly, it should start a basic set of control screens.  If for some reason this doesn't work, you can use a more basic script, run by entering at the terminal::
+    $ start_epics
