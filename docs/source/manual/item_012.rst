@@ -7,9 +7,10 @@ Step Scans
 Step scans are controlled through the EPICS scan record.  The scan record is designed to move an EPICS PV (usually a motor) to a series of predetermined points, collecting data at each point.  The control screen can be accessed through 7-BM-B control screen under "Scan Control".
 
 .. image:: ../img/scan.png
-   :width: 300px
+   :width: 380px
    :align: center
    :alt: scan record
+
 
 The basics of the scan record can be seen in its layout.  To set up the scan record:
 
