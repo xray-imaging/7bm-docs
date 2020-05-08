@@ -8,6 +8,7 @@ Manual
    :maxdepth: 1
 
    manual/alarms.rst
+   manual/chem_waste.rst
    manual/chopper.rst
    manual/data_recon.rst
    manual/detectors.rst
