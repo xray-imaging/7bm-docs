@@ -1,4 +1,4 @@
-Rotary Chopper
+Chemical Waste
 ================
 
 .. contents:: 

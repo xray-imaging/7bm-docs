@@ -9,7 +9,7 @@
    :alt: project
 
 
-Manual and troubleshoting information to operate the APS beamline 7-BM
+Manual and troubleshooting information to operate the APS beamline 7-BM.
 
 Content
 -------
