@@ -10,3 +10,4 @@ Manual
    manual/item*
    manual/chopper.rst
    manual/timing.rst
+   manual/tvmonitor.rst

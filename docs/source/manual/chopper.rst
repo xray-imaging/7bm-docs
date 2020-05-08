@@ -1,28 +1,13 @@
-TV Monitor
-===========
+Rotary Chopper
+================
 
 .. contents:: 
    :local:
 
-The beamline is equipped with several closed-circuit cameras to allow experiments to be viewed remotely.  Three of these cameras in 7-BM-B are pan-tilt-zoom for flexibility in viewing experiments.  All video signals are directed to the video multiplexer below the TV monitor at the user station.  One of the cameras in 7-BM-B is equipped with a microphone, which is directly connected to the monitor to allow users to hear sound in the hutch.
+The beamline is equipped with a rotary chopper to reduce x-ray exposure onto samples and detectors.  This is particularly relevant for studies with white beam, since prolonged white beam exposure on the scintillator crystals used for imaging can cause thermal cracking.  
 
-To operate the multiplexer, simply push the numbered button corresponding to the camera you wish to view.
+The chopper consists of two notched copper disks bolted to each other and driven by a stepper motor.  Motor 27 is preconfigured to run the chopper.  Each disk has two notches, so x-rays are transmitted twice for every rotation of the chopper wheel.  The two disks can be manually rotated with respect to each other to change the duty cycle of the chopper by removing the aluminum cover over the disk, making sure to disconnect the motor first.
 
+To operate the chopper, the stepper motor is simply spun for a fixed number of rotations.  For continuous operation, this number of rotations can be set to an arbitrarily large number.  For timing, the chopper is also equipped with a photoeye.  This photoeye is supplied with 12 VDC and outputs a 12 V signal when the chopper opening is at the photoeye.  The photoeye will be triggered approximately 1/6 of a rotation before the x-rays are allowed through.
 
-==============  ======================      =======================
-Multiplexer #   Camera Position             Camera Type
---------------  ----------------------      -----------------------
-1               Roof of 7-BM-B              Pan-tilt-zoom
-2               Downstream wall 7-BM-B      Pan-tilt-zoom
-3               Pneumatic door 7-BM-B       Pan-tilt-zoom
-4               Open for users              --
-5               Open for users              --
-6               Steel column 7-BM-B         Fixed, with microphone
-7               Open for users              -- 
-8               Flag in 7-BM-A mono         Fixed
-9               Flag by 7-BM-A shutter      Fixed
-==============  ======================      =======================
-
-To use one of the open multiplexer channels, use the BNC patch panels to patch the video output back to the user station, then plug the signal into the back of the multiplexer. 
-
-To operate the pan-tilt-zoom cameras, use the joystick control next to the multiplexer.  Press the button in the upper part of the panel to select the camera, then use the joystick to pan, tilt, and (by twisting the joystick) zoom.
+**NOTE**: keep in mind that the chopper can only reduce x-ray exposure on components if it is either moving or if it is stopped at a point where the x-rays are 
