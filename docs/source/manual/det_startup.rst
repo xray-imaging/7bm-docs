@@ -2,7 +2,7 @@ Detector Startup
 ================
 
 Cameras  
--------------
+-------
 
 All single-frame cameras at the beamline use areaDetector, allowing an easy interface with other EPICS applications.
 

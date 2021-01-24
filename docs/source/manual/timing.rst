@@ -1,5 +1,5 @@
 Timing
-============
+======
 
 .. contents:: 
    :local:
