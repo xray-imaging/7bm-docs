@@ -20,3 +20,4 @@ Manual
    manual/timing.rst
    manual/tvmonitor.rst
    manual/viewingdata.rst
+   manual/visiblelens.rst
