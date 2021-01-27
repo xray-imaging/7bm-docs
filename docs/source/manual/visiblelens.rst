@@ -4,7 +4,13 @@ Visible Lens
 Imaging and tomography 
 ----------------------
 
-The installed an `Optique Peter <http://www.optiquepeter.com/>`_ system for visible light detection.
+We installed an `Optique Peter <http://www.optiquepeter.com/>`_ system for visible light detection
+
+.. image:: ../img/optique_peter_single.png 
+   :width: 140px
+   :align: center
+   :alt: tomo_user
+
 
 Specification and user manuals:
 
