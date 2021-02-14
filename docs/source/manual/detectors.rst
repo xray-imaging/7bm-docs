@@ -2,7 +2,7 @@ Detectors
 =========
 
 Cameras
--------------
+-------
 
 ========  ===========  =============  =================
 IOC Name  Pixel size   H x V          Interface

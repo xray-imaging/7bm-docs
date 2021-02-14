@@ -5,7 +5,7 @@ Measurements with Oscilloscope
    :local:
 
 Oscilloscope
-----------------
+------------
 
 The main digital oscilloscope for 7-BM is a Yokogawa DLM2054 oscilloscope.  This oscilloscope is 4-channelwith 8 bits of vertical resolution.  Some points to keep in mind when using the oscilloscope:
 
@@ -16,7 +16,7 @@ The main digital oscilloscope for 7-BM is a Yokogawa DLM2054 oscilloscope.  This
 * If a user is filtering a channel on the oscilloscope, it is essential that the entire trace fit into the vertical range of the oscilloscope **before** filtering.  Simply checking that no clipping is occurring on the filtered data *is not* sufficient and may result in corrupted data.
  
 DataGrabber
----------------
+-----------
 
 To use this to take time-resolved radiography data, we use a Java program called DataGrabber, written by Chris Powell from Argonne's Energy Systems division.  DataGrabber is run from the Windows workstation at the user station.  It controls the oscilloscope and records the oscilloscope traces and meta data to a binary or ASCII data file.  While DataGrabber can be used to manually control the oscilloscope and record data, it is most commonly used to automate the recording of time-resolved data.
 

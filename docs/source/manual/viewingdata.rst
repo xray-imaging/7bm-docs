@@ -1,5 +1,5 @@
 Viewing Data 
-===============
+============
 
 Imaging and tomography 
 ----------------------
@@ -13,6 +13,6 @@ Tomography projection data is stored in `Data Exchange <https://dxfile.readthedo
 Tomography reconstruction data are typically stored as TIFF stacks.  To view these, ImageJ is the easiest choice.  Try using File -> Import -> Image Sequence to load the data.  Keep in mind that large datasets may take considerable time to load.
 
 Time-Averaged Point Scan Data
--------------------------------
+-----------------------------
 
 To view the data files written by the scan record, use dview, a tool written by Dohn Arms from APS BCDA.  Select dview from the Tools menu on the bottom of the 7-BM-B control screen.  This program allows fast flipping through different scan files, visualizing multiple variables at once, and 2D visualizations for multidimensional scans.  It also allows for applying arbitrary functions to the data, allowing simple conversions for data visualization.

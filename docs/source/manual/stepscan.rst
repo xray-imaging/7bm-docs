@@ -1,5 +1,5 @@
 Step Scans
-================
+==========
 
 .. contents:: 
    :local:

@@ -1,9 +1,9 @@
-===============
+============
 Useful Links
-===============
+============
 
 APS Links
---------------
+---------
 
 `Current APS Status <https://www3.aps.anl.gov/aod/blops/status/srStatus.html>`_
 
@@ -25,7 +25,7 @@ APS Links
 
 
 X-Ray Links
--------------
+-----------
 
 `CRXO X-Ray Interactions with Matter <http://henke.lbl.gov/optical_constants/>`_
 

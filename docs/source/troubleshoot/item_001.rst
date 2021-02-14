@@ -1,5 +1,5 @@
 Starting Control Screens
-==========================
+========================
 
 .. contents:: 
    :local:

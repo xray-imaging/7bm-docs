@@ -1,5 +1,5 @@
 Rotary Chopper
-================
+==============
 
 .. contents:: 
    :local:
