@@ -4,7 +4,7 @@ Chemical Waste
 .. contents:: 
    :local:
 
-Users are responsible for informing beamline staff of any chemical waste created in their experiment and for properly handling such waste.  
+Users are responsible for informing beamline staff of any chemical waste created in their experiment and for properly handling such waste:
 
 - Please properly contain your waste.  Ensure that the container for your waste is compatible with your waste. 
 - All chemical waste containers must be labeled with the user name, contents, and the date the container began to be filled.

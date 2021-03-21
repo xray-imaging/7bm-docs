@@ -7,7 +7,7 @@ Measurements with Oscilloscope
 Oscilloscope
 ------------
 
-The main digital oscilloscope for 7-BM is a Yokogawa DLM2054 oscilloscope.  This oscilloscope is 4-channelwith 8 bits of vertical resolution.  Some points to keep in mind when using the oscilloscope:
+The main digital oscilloscope for 7-BM is a Yokogawa DLM2054 oscilloscope.  This oscilloscope is 4-channels with 8 bits of vertical resolution.  Some points to keep in mind when using the oscilloscope:
 
 * There is an external trigger in terminal on the back panel of the oscilloscope.  Using this terminal for a TTL trigger in not only saves a channel for data but tends to result in less cross-talk between the trigger signal and data signals.
 
