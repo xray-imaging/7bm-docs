@@ -16,6 +16,7 @@ Manual
    manual/download.rst
    manual/globus.rst
    manual/oscope.rst
+   manual/softiocs.rst
    manual/stepscan.rst
    manual/timing.rst
    manual/tvmonitor.rst
