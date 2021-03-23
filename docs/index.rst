@@ -23,6 +23,7 @@ Content
    source/links
    source/user
    source/troubleshoot
+   source/staff.rst
    source/support
 
 Contribute

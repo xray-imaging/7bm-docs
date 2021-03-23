@@ -7,7 +7,7 @@ X-ray Optics
 Filters
 --------
 
-A water-cooled filter set is located in 7-BM-A.  This is mostly used to prefilter the beam for tomography and high-speed imaging experiments, though it can also be used to filter low energy x-rays when using the single-bounce multilayer mirror (described below).  The control for the filters is found in the 7-BM-A control screen.  There are two filter units, so up to two filters can be used simultaneously.
+A water-cooled filter set is located in 7-BM-A.  This is mostly used to prefilter the beam for tomography and high-speed imaging experiments, though it can also be used to filter low energy x-rays when using the single-bounce multilayer mirror (described below).  The control for the filters is found in the 7-BM-A control screen under Alignment.  There are two filter units, so up to two filters can be used simultaneously.
 
 It takes several seconds to move between filter materials.  Please remember to close the 7-BM-A shutter before moving the filters.
 
@@ -47,12 +47,22 @@ For focused-beam experiments with the monochromatic beam, the beamline has a pai
 Polycapillary Optics
 --------------------
 
-The beamline is equipped with two polycapillary optics from XOS.  The first optic has a 100 mm focal length and is optimized for lower photon energies.  The second is 50 mm focal length and works well at I :math:r`'K_{\alpha}` (28.6 keV).  Both optics are uncoated glass.  These optics are mostly used for confocal fluorescence microscopy.
+The beamline is equipped with two polycapillary optics from XOS.  The first optic has a 100 mm focal length and is optimized for lower photon energies.  The second is 50 mm focal length and works well at I :math:`'K_{\\alpha}` (28.6 keV).  Both optics are uncoated glass.  These optics are mostly used for confocal fluorescence microscopy.
 
 .. image:: img/polycap_eg.jpg
    :width: 320px
    :align: center
    :alt: polycapillary in use for confocal fluorescence
+
+Channel Cut Si Crystals
+-----------------------
+
+The beamline has three silicon channel cut crystals, all made by the APS Optics group.  While these crystals can be used to create a more monochromatic beam (~ 1 eV bandpass) for experiments, they are more typically used for energy calibrations.  The three crystals are one Si (220), 20 mm long, one Si (220) 40 mm long, and one Si (111), 40 mm long.  All have an 8 mm spacing between the diffracting planes.  There are also base plates to mount these crystals to a Huber 410 rotation stage.
+
+.. image:: img/channel_cut_eg.jpg
+   :width: 320px
+   :align: center
+   :alt: channel cut crystal in use for energy calibrations
 
 
 .. contents:: Contents:
