@@ -13,12 +13,12 @@ It takes several seconds to move between filter materials.  Please remember to c
 
 
 
-.. image:: source/img/Filter_screen.png
+.. image:: img/Filter_screen.png
    :width: 320px
    :align: center
    :alt: how to open filter screen
 
-.. image:: source/img/Filter_eg2.png
+.. image:: img/Filter_eg2.png
    :width: 320px
    :align: center
    :alt: filter control
@@ -34,6 +34,11 @@ For monochromatic beam experiments at 6-16 keV, a double multilayer monochromato
 
 For more flexibiity in energy range, a multilayer mirror can be placed in 7-BM-B.  This mirror has two coatings, at 2.1 nm and 4.0 nm nominal d-spacing, respectively.  The mirror uses a 200 mm long Si substrate.  This mirror is operated with the beamline in white beam mode, and requires cooling water from the hutch DI water system.
 
+.. image:: img/multilayer_mirror.jpg
+   :width: 320px
+   :align: center
+   :alt: multilayer mirror
+
 Focusing Mirrors
 ----------------
 
@@ -43,6 +48,11 @@ Polycapillary Optics
 --------------------
 
 The beamline is equipped with two polycapillary optics from XOS.  The first optic has a 100 mm focal length and is optimized for lower photon energies.  The second is 50 mm focal length and works well at I :math:r`'K_{\alpha}` (28.6 keV).  Both optics are uncoated glass.  These optics are mostly used for confocal fluorescence microscopy.
+
+.. image:: img/polycap_eg.jpg
+   :width: 320px
+   :align: center
+   :alt: polycapillary in use for confocal fluorescence
 
 
 .. contents:: Contents:
