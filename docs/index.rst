@@ -18,8 +18,10 @@ Content
    :maxdepth: 1
 
    source/about
+   source/optics.rst
    source/manual
    source/links
+   source/user
    source/troubleshoot
    source/support
 
