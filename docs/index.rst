@@ -19,6 +19,8 @@ Content
 
    source/about
    source/optics.rst
+   source/operations
+   source/tomography
    source/manual
    source/links
    source/user

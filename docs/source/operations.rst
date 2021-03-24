@@ -11,3 +11,4 @@ Manual
    operations/chem_waste.rst
    operations/flammables.rst
    operations/flow_ctrls.rst
+   operations/visible_optics.rst
