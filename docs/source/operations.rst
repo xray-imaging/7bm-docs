@@ -1,5 +1,5 @@
 ======
-Manual
+Equipment and Operations
 ======
 
 
