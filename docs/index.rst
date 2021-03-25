@@ -18,7 +18,7 @@ Content
    :maxdepth: 1
 
    source/about
-   source/general-controls
+   source/general_controls
    source/optics.rst
    source/operations
    source/tomography
