@@ -62,11 +62,11 @@ The beamline has three silicon channel cut crystals, all made by the APS Optics 
 Equations, for crystal angle :math:`\theta` and distance between the two diffracting planes of h:
 
 .. math::    
-    \text{vertical beam offset} = \frac{2h}{\cos{\theta}} 
+    &\text{vertical beam offset} = \frac{2h}{\cos{\theta}}\\
 
-    \text{length on crystal} = \frac{h}{\tan{\theta}} 
+    &\text{length on crystal} = \frac{h}{\tan{\theta}}\\
 
-    \frac{12.398}{E(kev)} = 2 d \sin{\theta}
+    &\frac{12.398}{E(kev)} = 2 d \sin{\theta\\
  
     d = 3.84 \r{A} \text{for Si(220)}, 6.27 \r{A} \text{for Si(111)}    
 
