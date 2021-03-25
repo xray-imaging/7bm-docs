@@ -4,21 +4,19 @@ Data reconstruction
 At the APS
 ----------
 
-Your raw data are automatically copied from the detector to the analysis computer (handyn in this example) under the folder /local/data/YYYY-MM/PI_lastName. After the transfer the data are also automatically reconstructed with:: 
-
-    [tomo@handyn,~]$ tomopy recon --reconstruction-type try --hdf-file /local/data.h5
+Your raw data are automatically copied from the detector to the analysis computer (handyn in this example) under the folder /local/data/YYYY-MM/PI_lastName. 
 
 
-Login at the beamline Linux machine handyn as user “tomo” then type::
+Login at the beamline Linux machine and then type::
 
-    [tomo@handyn,~]$ tomopy recon -h
+    [user@workstation ~]$ tomopy recon -h
 
 
 for help. More detailed instruction are at https://github.com/tomography/tomopy-cli
 
 To do a test reconstruction just type::
 
-    [tomo@handyn,~]$ tomopy recon --hdf-file /local/data/YYYY-MM/PI_lastName/file.h5 
+    [user@workstation ~]$ tomopy recon --hdf-file /local/data/YYYY-MM/PI_lastName/file.h5 
 
 
 At your home institution
