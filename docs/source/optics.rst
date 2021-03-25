@@ -64,7 +64,7 @@ Equations, for crystal angle :math:`\theta` and distance between the two diffrac
 .. math::    
     & \text{vertical beam offset} = \frac{2h}{\cos{\theta}} \\
     & \text{length on crystal} = \frac{h}{\tan{\theta}} \\
-    & \frac{12.398}{E(kev)} = 2 d \sin{\theta \\
+    & \frac{12.398}{E(kev)} = 2 d \sin{\theta} \\
     & d = 3.84 \text{ angstroms for Si(220)}, 6.27 \text{ angstroms for Si(111)}    
 
 .. image:: img/channel_cut_eg.png
