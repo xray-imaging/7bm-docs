@@ -57,9 +57,16 @@ The beamline is equipped with two polycapillary optics from XOS.  The first opti
 Channel Cut Si Crystals
 -----------------------
 
-The beamline has three silicon channel cut crystals, all made by the APS Optics group.  While these crystals can be used to create a more monochromatic beam (~ 1 eV bandpass) for experiments, they are more typically used for energy calibrations.  The three crystals are one Si (220), 20 mm long, one Si (220) 40 mm long, and one Si (111), 40 mm long.  All have an 8 mm spacing between the diffracting planes.  There are also base plates to mount these crystals to a Huber 410 rotation stage.
+The beamline has three silicon channel cut crystals, all made by the APS Optics group.  While these crystals can be used to create a more monochromatic beam (~ 1 eV bandpass) for experiments, they are more typically used for energy calibrations.  The three crystals are one Si(220), 20 mm long, one Si(220) 40 mm long, and one Si(111), 40 mm long.  All have an 8 mm spacing between the diffracting planes.  There are also base plates to mount these crystals to a Huber 410 rotation stage.
 
-.. image:: img/channel_cut_eg.jpg
+Remember, for crystal angle :math:`\theta`, crystal length :math:`\el`, and distance between the two diffracting planes of h, the vertical offset of the beam will be::
+    
+    :math:`offset = \frac{2h}{\cos{\theta}}'
+    :math:`length on crystal = \frac{h}{\tan{\theta}}`
+    :math: `\frac{12.398}{E(kev)} = 2 d \sin{\theta}`
+    :math: `d = 3.84 \AA for Si(220), 6.27 \AA for Si(111)    
+
+.. image:: img/channel_cut_eg.png
    :width: 320px
    :align: center
    :alt: channel cut crystal in use for energy calibrations
