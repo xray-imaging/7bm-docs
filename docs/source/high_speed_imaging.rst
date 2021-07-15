@@ -1,10 +1,10 @@
 High-Speed Imaging
-=====================
+==================
 
 High-speed imaging at 7-BM is done with the white x-ray beam, with optional filters to reduce x-ray exposure.  An important consideration in these experiments is that the heat load from the white beam can quickly cause both radiation and thermal damage to both samples and the scintillator crystal used for x-ray imaging.  
 
 Cameras
------------
+-------
 
 The beamline is equipped with several single-frame machine vision cameras, which are capable of frame rates approaching 100 Hz.  See the Detectors page for more information on these cameras.  The beamline can also borrow high-speed Photron cameras (an SA4 easily and an SA-Z with more difficulty) for imaging high-speed movies.  These cameras are controlled using the Photron software from a Windows workstation at the user station.  The RJ-45 patch panels are used to connect these cameras to the computer.
 

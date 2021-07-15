@@ -1,5 +1,5 @@
 The sample motors stopped working!
-========================
+==================================
 
 .. contents:: 
    :local:

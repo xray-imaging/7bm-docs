@@ -1,5 +1,5 @@
 Alarms
-=======
+======
 
 There are several warning alarms in and around 7-BM-B, in addition to the typical fire and tornado alarm systems.  An overview of them is below.
 
