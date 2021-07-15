@@ -1,6 +1,5 @@
-=============
 Visible Light Optics
-=============
+====================
 
 7-BM posesses visible light optics and cameras for both standard visible imaging and for use with scintillator crystals for indirect x-ray imaging.
 

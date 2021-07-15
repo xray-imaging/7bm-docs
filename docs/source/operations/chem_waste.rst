@@ -1,5 +1,5 @@
 Chemical Waste
-================
+==============
 
 .. contents:: 
    :local:

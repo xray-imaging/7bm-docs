@@ -1,5 +1,5 @@
 Saving experiment configurations
-=============
+================================
 
 It is often desirable to save the setup of a portion of an experiment (scan, motor, userCalc, delay generator settings) either for later use or to copy.  While the autosave module can be used to restore a record, it is more awkward to copy a record with autosave.  An alternative is to use a Python program, RecordSaver, to save and restore records.  
 

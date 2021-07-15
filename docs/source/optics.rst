@@ -1,11 +1,11 @@
-=============
+============
 X-ray Optics
-=============
+============
 
 7-BM features a series of x-ray optics to manipulate the x-ray beam.
 
 Filters
---------
+-------
 
 A water-cooled filter set is located in 7-BM-A.  This is mostly used to prefilter the beam for tomography and high-speed imaging experiments, though it can also be used to filter low energy x-rays when using the single-bounce multilayer mirror (described below).  The control for the filters is found in the 7-BM-A control screen under Alignment.  There are two filter units, so up to two filters can be used simultaneously.
 
@@ -25,12 +25,12 @@ It takes several seconds to move between filter materials.  Please remember to c
 
 
 Double Multilayer Monochromator
----------------------------------
+-------------------------------
 
 For monochromatic beam experiments at 6-16 keV, a double multilayer monochromator is used.  The monochromator has two polished Si substrates, each 60 mm wide x 120 mm long.  The substrates were coated with three stripes by Rigaku.  One stripe is at 2.0 nm nominal d-spacing.  The second is at 3.5 nm nominal d-spacing.  The middle stripe is split: the bottom half of the beam is reflected from a 2.0 nm coating, the top half from a 3.5 nm coating.  This is useful for dual-energy experiments.  Each stripe is ~ 8 mm wide.
 
 7-BM-B Multilayer Mirror
--------------------------------
+------------------------
 
 For more flexibiity in energy range, a multilayer mirror can be placed in 7-BM-B.  This mirror has two coatings, at 2.1 nm and 4.0 nm nominal d-spacing, respectively.  The mirror uses a 200 mm long Si substrate.  This mirror is operated with the beamline in white beam mode, and requires cooling water from the hutch DI water system.
 
