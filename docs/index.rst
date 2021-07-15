@@ -18,9 +18,15 @@ Content
    :maxdepth: 1
 
    source/about
+   source/general_controls
+   source/optics.rst
+   source/operations
+   source/tomography
    source/manual
    source/links
+   source/user
    source/troubleshoot
+   source/staff.rst
    source/support
 
 Contribute
