@@ -9,5 +9,6 @@ Tomography
 
    tomography/data_recon.rst
    tomography/data_visualization.rst
+   tomography/tomoscan.rst
    tomography/visiblelens.rst
    

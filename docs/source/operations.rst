@@ -7,8 +7,9 @@ Equipment and Operations
    :glob:
    :maxdepth: 1
 
-   operations/alarms.rst
-   operations/chem_waste.rst
-   operations/flammables.rst
-   operations/flow_ctrls.rst
-   operations/visible_optics.rst
+   operations/alarms
+   operations/chem_waste
+   operations/flammables
+   operations/flow_ctrls
+   operations/visible_optics
+   operations/tvmonitor
