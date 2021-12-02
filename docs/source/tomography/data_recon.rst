@@ -22,16 +22,4 @@ To do a test reconstruction just type::
 At your home institution
 ------------------------
 
-Install the following::
-
-    Conda: https://www.anaconda.com/download/
-    tomopy: conda install -c conda-forge tomopy
-    tomopy-cli: https://github.com/tomography/tomopy-cli
-
-then you can run reconstrutions with::
-
-    $ tomopy recon --hdf-file /data/file.h5
-
-or find the rotation axis for all datasets in /data with::
-
-    $ tomopy find_center --hdf-file /data/
+Please follow `these instrutions <https://docs2bm.readthedocs.io/en/latest/source/user/item_006.html>`_
