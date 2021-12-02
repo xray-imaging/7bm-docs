@@ -34,13 +34,13 @@ To run a single scan with the parameters set in the tomoScan screen press the gr
 
 tomoscan supports also vertical, horizontal and mosaic tomographic scans with::
 
-    [user2bmb@pg10ge]$ tomoscan vertical
-    [user2bmb@pg10ge]$ tomoscan horizontal
-    [user2bmb@pg10ge]$ tomoscan mosaic
+    [user@workstation]$ tomoscan vertical
+    [user@workstation]$ tomoscan horizontal
+    [user@workstation]$ tomoscan mosaic
 
 to run a vertical scan::
 
-    $ [user2bmb@pg10ge]$ tomoscan vertical --vertical-start 0 --vertical-step-size 0.1 --vertical-steps 2
+    $ [user@workstation]$ tomoscan vertical --vertical-start 0 --vertical-step-size 0.1 --vertical-steps 2
 
     2020-05-29 16:54:03,354 - vertical scan start
     2020-05-29 16:54:03,356 - vertical positions (mm): [0.  0.1]
@@ -56,16 +56,16 @@ to run a vertical scan::
 
 to run a series of vertical scans starting from different locations::
 
-    [user2bmb@pg10ge]$ for k in {0,5.2,10.4,15.6,20.8,26}; do tomoscan vertical --vertical-start $k --vertical-step-size 1.3 --vertical-steps 4; done
+    [user@workstation]$ for k in {0,5.2,10.4,15.6,20.8,26}; do tomoscan vertical --vertical-start $k --vertical-step-size 1.3 --vertical-steps 4; done
 
 this will run::
 
-        [user2bmb@pg10ge]$ tomoscan vertical --vertical-start 0 --vertical-step-size 1.3 --vertical-steps 4
-        [user2bmb@pg10ge]$ tomoscan vertical --vertical-start 5.2 --vertical-step-size 1.3 --vertical-steps 4
-        [user2bmb@pg10ge]$ tomoscan vertical --vertical-start 10.4 --vertical-step-size 1.3 --vertical-steps 4
-        [user2bmb@pg10ge]$ tomoscan vertical --vertical-start 15.6 --vertical-step-size 1.3 --vertical-steps 4
-        [user2bmb@pg10ge]$ tomoscan vertical --vertical-start 20.8 --vertical-step-size 1.3 --vertical-steps 4
-        [user2bmb@pg10ge]$ tomoscan vertical --vertical-start 26 --vertical-step-size 1.3 --vertical-steps 4
+        [user@workstation]$ tomoscan vertical --vertical-start 0 --vertical-step-size 1.3 --vertical-steps 4
+        [user@workstation]$ tomoscan vertical --vertical-start 5.2 --vertical-step-size 1.3 --vertical-steps 4
+        [user@workstation]$ tomoscan vertical --vertical-start 10.4 --vertical-step-size 1.3 --vertical-steps 4
+        [user@workstation]$ tomoscan vertical --vertical-start 15.6 --vertical-step-size 1.3 --vertical-steps 4
+        [user@workstation]$ tomoscan vertical --vertical-start 20.8 --vertical-step-size 1.3 --vertical-steps 4
+        [user@workstation]$ tomoscan vertical --vertical-start 26 --vertical-step-size 1.3 --vertical-steps 4
 
 please check the `command line manual  <https://tomoscan.readthedocs.io/en/latest/demo.html#using-the-tomoscan-cli>`_ for more details. 
 

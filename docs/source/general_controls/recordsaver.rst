@@ -9,7 +9,7 @@ To use RecordSaver, at the terminal on the beamline workstation, simply type::
 
 This will show the main RecordSaver window shown below. 
 
-.. image:: img/recordsaver.png
+.. image:: ../img/recordsaver.png
    :width: 640px
    :align: center
    :alt: RecordSaver main window

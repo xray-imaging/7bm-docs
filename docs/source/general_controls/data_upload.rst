@@ -11,6 +11,6 @@ To use DMagic, first make sure TomoScan is running, since that is where the rele
 
 globus
 -------
-`globus <https://github.com/decarlof/globus>`_ is a python script that automatically creates a directory on a globus server as "year-month/pi_last_name" (or any other preset path) and sends a customizable notification email to "pi_email" that includes the URL to the shared folder.
+`globus <https://github.com/xray-imaging/globus>`_ is a python script that automatically creates a directory on a globus server as "year-month/pi_last_name" (or any other preset path) and sends a customizable notification email to "pi_email" that includes the URL to the shared folder.
 
-To use globus, follow the directions `here <
+To use globus, follow `this directions <https://github.com/xray-imaging/globus>`_
