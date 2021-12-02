@@ -9,7 +9,7 @@ The beamline is equipped with several closed-circuit cameras to allow experiment
 + Three of these cameras in 7-BM-B are pan-tilt-zoom with a joystick control near the TV monitor for flexibility in viewing experiments.  To operate the pan-tilt-zoom cameras, use the joystick control next to the multiplexer.  Press the button in the upper part of the panel to select the camera, then use the joystick to pan, tilt, and (by twisting the joystick) zoom.
 + Three of the cameras in 7-BM-B are pan-tilt-zoom controlled via a web interface.
 + One of the cameras in 7-BM-B is equipped with a microphone, which is directly connected to the monitor to allow users to hear sound in the hutch.
-+ Four of the cameras (#1, 2, 3, and 7 below) can be viewed (but not controlled) through a `web interface <s7bmb4vid.xray.aps.anl.gov>`_.
++ Four of the cameras (#1, 2, 3, and 7 below) can be viewed (but not controlled) through a `web interface <https://s7bmb4vid.xray.aps.anl.gov>`_.
 
 
 ==============  ======================      =======================
@@ -18,9 +18,9 @@ Multiplexer #   Camera Position             Camera Control
 1               Roof of 7-BM-B              Joystick control Camera 1
 2               Downstream wall 7-BM-B      Joystick control Camera 2
 3               Pneumatic door 7-BM-B       Joystick control Camera 3
-4               Near patch panels           Web: `remoteview7bmb1.aps.anl.gov <remoteview7bmb1.aps.anl.gov>`_ 
-5               Experiment table            Web: `remoteview7bmb1.aps.anl.gov <remoteview7bmb1.aps.anl.gov>`_ 
-6               Downstream wall 7-BM-B      Web: `remoteview7bmb1.aps.anl.gov <remoteview7bmb1.aps.anl.gov>`_ 
+4               Near patch panels           Web: `remoteview7bmb1.aps.anl.gov <https://remoteview7bmb1.aps.anl.gov>`_ 
+5               Experiment table            Web: `remoteview7bmb1.aps.anl.gov <https://remoteview7bmb1.aps.anl.gov>`_ 
+6               Downstream wall 7-BM-B      Web: `remoteview7bmb1.aps.anl.gov <https://remoteview7bmb1.aps.anl.gov>`_ 
 7               Steel column 7-BM-B         Fixed
 8               Flag in 7-BM-A mono         Fixed
 9               Flag by 7-BM-A shutter      Fixed
