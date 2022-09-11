@@ -26,6 +26,7 @@ Content
    source/manual
    source/links
    source/rad_and_fluor
+   source/fluorescence
    source/staff
    source/support
    source/troubleshoot
