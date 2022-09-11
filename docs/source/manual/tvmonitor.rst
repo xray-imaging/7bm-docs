@@ -1,5 +1,5 @@
 TV Monitor
-==========
+===========
 
 .. contents:: 
    :local:
@@ -18,9 +18,9 @@ Multiplexer #   Camera Position             Camera Control
 1               Roof of 7-BM-B              Joystick control Camera 1
 2               Downstream wall 7-BM-B      Joystick control Camera 2
 3               Pneumatic door 7-BM-B       Joystick control Camera 3
-4               Near patch panels           Web: remoteview7bmb1.xray.aps.anl.gov
-5               Experiment table            Web: remoteview7bmb2.xray.aps.anl.gov
-6               Downstream wall 7-BM-B      Web: remoteview7bmb3.xray.aps.anl.gov
+4               Near patch panels           Web: remoteview7bmb1.aps.anl.gov
+5               Experiment table            Web: remoteview7bmb2.aps.anl.gov
+6               Downstream wall 7-BM-B      Web: remoteview7bmb3.aps.anl.gov
 7               Steel column 7-BM-B         Fixed
 8               Flag in 7-BM-A mono         Fixed
 9               Flag by 7-BM-A shutter      Fixed
