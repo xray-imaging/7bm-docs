@@ -23,7 +23,7 @@ Optical setup
 
 A typical high-speed imaging setup is shown below.  The scintillator is mounted to a 30 mm Thorlabs turning mirror cube, which is in turn mounted on an optical rail carriage.  The imaging cube is mounted to an adjustment motor that moves the cube along the rail to allow the camera to be focused.  The camera is fixed to the optical rail; the exact mounting scheme depends on the camera.  The optical system shown here is one that works well for high-speed imaging.  I uses two camera lenses (Nikon 105 mm f/2.8 near the camera, Nikon 50 mm f/1.2 near the imaging cube) coupled on their filter rings.  It gives a roughly 2x magnification with a high degree of light capture.
 
-.. image:: img/high_speed_imaging_eg.png
+.. image:: img/high_speed_Imaging_eg.png
    :width: 640px
    :align: center
    :alt: Typical high-speed imaging optical setup
