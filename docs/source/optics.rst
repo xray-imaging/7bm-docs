@@ -32,7 +32,13 @@ For monochromatic beam experiments at 6-18 keV, a double multilayer monochromato
 
 Due to the configuration of the stripes, the white beam slit positions must be adjusted to use the different stripes.  The settings for the different stripes are:
 
-
+============================    ================================    ================================  
+Stripe                          WB Slit H Center                    WB Slit H Size
+============================    ================================    ================================ 
+2.0 nm                          5.9 mm                              4.6 mm
+Mixed                           0.7 mm                              9.0 mm
+3.5 nm                          0.7 mm                              6.6 mm
+============================    ================================    ================================ 
 
 7-BM-B Multilayer Mirror
 ------------------------

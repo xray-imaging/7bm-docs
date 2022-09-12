@@ -19,18 +19,19 @@ Content
 
    source/about
    source/general_controls
-   source/high_speed_imaging
-   source/optics
    source/operations
+   source/flow_infrastructure
    source/tomography
+   source/high_speed_imaging
+   source/edd
+   source/radiography
+   source/fluorescence
+   source/optics
    source/manual
    source/links
-   source/rad_and_fluor
-   source/fluorescence
    source/staff
    source/support
    source/troubleshoot
-   source/user
 
 Contribute
 ----------
