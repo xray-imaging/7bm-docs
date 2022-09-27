@@ -18,6 +18,7 @@ Content
    :maxdepth: 1
 
    source/about
+   source/user_info
    source/general_controls
    source/operations
    source/flow_infrastructure
