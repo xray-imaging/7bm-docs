@@ -48,3 +48,15 @@ Design Suggestions
    :align: center
    :alt: Example of poor wiring practice
 
+* Consider using wire-end ferrules when using stranded wire.  It makes for a much cleaner termination into terminal blocks.
+
+.. image:: ../img/bare_wires.png
+   :width: 640px
+   :align: center
+   :alt: Example of poor wiring practice
+ 
+
+.. image:: ../img/wire_ferrule.png
+   :width: 640px
+   :align: center
+   :alt: Example of poor wiring practice
