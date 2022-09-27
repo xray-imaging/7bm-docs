@@ -13,3 +13,4 @@ Equipment and Operations
    operations/flow_ctrls
    operations/visible_optics
    operations/tvmonitor
+   operations/remote_outlets

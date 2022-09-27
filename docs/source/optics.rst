@@ -4,6 +4,7 @@ X-ray Optics
 
 7-BM features a series of x-ray optics to manipulate the x-ray beam.
 
+.. _Filters_target:
 Filters
 -------
 
@@ -27,7 +28,17 @@ It takes several seconds to move between filter materials.  Please remember to c
 Double Multilayer Monochromator
 -------------------------------
 
-For monochromatic beam experiments at 6-16 keV, a double multilayer monochromator is used.  The monochromator has two polished Si substrates, each 60 mm wide x 120 mm long.  The substrates were coated with three stripes by Rigaku.  One stripe is at 2.0 nm nominal d-spacing.  The second is at 3.5 nm nominal d-spacing.  The middle stripe is split: the bottom half of the beam is reflected from a 2.0 nm coating, the top half from a 3.5 nm coating.  This is useful for dual-energy experiments.  Each stripe is ~ 8 mm wide.
+For monochromatic beam experiments at 6-18 keV, a double multilayer monochromator is used.  The monochromator has two polished Si substrates, each 60 mm wide x 120 mm long.  The substrates were coated with three stripes by Rigaku.  One stripe is at 2.0 nm nominal d-spacing.  The second is at 3.5 nm nominal d-spacing.  The middle stripe is split: the bottom half of the beam is reflected from a 2.0 nm coating, the top half from a 3.5 nm coating.  This is useful for dual-energy experiments.  Each stripe is ~ 8 mm wide.
+
+Due to the configuration of the stripes, the white beam slit positions must be adjusted to use the different stripes.  The settings for the different stripes are:
+
+============================    ================================    ================================  
+Stripe                          WB Slit H Center                    WB Slit H Size
+============================    ================================    ================================ 
+2.0 nm                          5.9 mm                              4.6 mm
+Mixed                           0.7 mm                              9.0 mm
+3.5 nm                          0.7 mm                              6.6 mm
+============================    ================================    ================================ 
 
 7-BM-B Multilayer Mirror
 ------------------------

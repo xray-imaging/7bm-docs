@@ -2,8 +2,8 @@ Remote access
 =============
 
 Remote access to beamline control computers is granted to users having a valid badge number and an active/scheduled proposal. 
-To connect to 7-BM control computer, please go to https://delos.aps.anl.gov and login using as user name d+badge number 
-and the password you used to submit your APS prosal, then select "karman, WS, Red Hat Enterprise Linux Workstation".  On the next screen, select the physical desktop.  Once connected, you will have the same control over the experiment you would have if seated at the beamline.
+To connect to 7-BM control computer, please go to https://delos.aps.anl.gov and login using your Argonne credentials.
+Select "karman, WS, Red Hat Enterprise Linux Workstation".  On the next screen, select the physical desktop.  Once connected, you will have the same control over the experiment you would have if seated at the beamline.
 
 
 .. image:: ../img/delos_login.png 
@@ -21,7 +21,6 @@ and the password you used to submit your APS prosal, then select "karman, WS, Re
    :align: center
    :alt: tomo_user
 
-Once connected you have full control of the tomography system via the usual user interface:
 
 For enable users for remote access see
 
