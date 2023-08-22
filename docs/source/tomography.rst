@@ -11,4 +11,4 @@ Tomography
    tomography/data_visualization.rst
    tomography/tomoscan.rst
    tomography/visiblelens.rst
-   
+   tomography/meta_parameters.rst   
