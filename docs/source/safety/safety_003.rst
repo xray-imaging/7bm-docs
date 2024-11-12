@@ -1,6 +1,6 @@
-============================================
+===============================
 Guide to Home-Built Electronics
-============================================
+===============================
 
 Custom-built electronics are a part of many experiments at APS.  Argonne takes electrical safety seriously, and all electronics that will handle > 50 V require an inspection to show that they can safely be operated.  Many custom-built electronic units are built by researchers themselves who often lack training in electrical work.  Based on past experience, poor construction of electronics can lead to significant delays in experiments for users, limitations on experiments, and extra work for beamline staff and electrical inspectors.
 

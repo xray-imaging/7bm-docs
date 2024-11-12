@@ -32,6 +32,7 @@ Content
    source/staff
    source/support
    source/troubleshoot
+   source/safety
 
 Contribute
 ----------
@@ -42,6 +43,6 @@ Contribute
 Mailing list
 ------------
 
-To subscribe to the 7-BM mailing list please go to the `list info <https://lists.anl.gov/mailman/listinfo/2-bm>`_ page. Once subscribed you can email the list at: 7-bm@anl.gov.
+To subscribe to the 7-BM mailing list please go to the `list info <https://lists.anl.gov/mailman/listinfo/7-bm>`_ page. Once subscribed you can email the list at: 7-bm@anl.gov.
 
 Mailing list administrators can configure the mailing list `here <https://lists.anl.gov/mailman/admin/7-bm>`_.
