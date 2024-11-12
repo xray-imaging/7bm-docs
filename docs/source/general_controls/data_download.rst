@@ -25,7 +25,7 @@ If you do not get the email with the direct link to your data, please follow the
 - Activate an end point on your computer (see `Globus EndPoint <https://www.globus.org/globus-connect-personal>`_) 
 - Transfer the data to your computer.  Note that the APS data volumes are read only through the Globus Online interface.
 
-Another resource with instructions regarding retrieval of data saved with the APS data management system can be found `here <https://git.aps.anl.gov/DM/dm-docs/-/wikis/DM/HowTos/Getting-Data-From-Globus>`_ 
+Another resource with instructions regarding retrieval of data saved with the APS data management system can be found on the`howTos <https://git.aps.anl.gov/DM/dm-docs/-/wikis/DM/HowTos/Getting-Data-From-Globus>`_ 
 
 
 Raw Data Viewer 
