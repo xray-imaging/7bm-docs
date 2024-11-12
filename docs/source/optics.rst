@@ -5,6 +5,7 @@ X-ray Optics
 7-BM features a series of x-ray optics to manipulate the x-ray beam.
 
 .. _Filters_target:
+
 Filters
 -------
 
