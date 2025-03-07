@@ -43,6 +43,6 @@ Contribute
 Mailing list
 ------------
 
-To subscribe to the 7-BM mailing list please go to the `list info <https://lists.anl.gov/mailman/listinfo/7-bm>`_ page. Once subscribed you can email the list at: 7-bm@anl.gov.
+To subscribe to the 32-ID mailing list send an e-mail to 7-bm-owner@lists.anl.gov. 
 
-Mailing list administrators can configure the mailing list `here <https://lists.anl.gov/mailman/admin/7-bm>`_.
+Mailing list administrators can configure the mailing list `here <https://lists.anl.gov/mailman3/lists/7-bm.lists.anl.gov/>`_.
