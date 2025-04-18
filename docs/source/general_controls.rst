@@ -13,3 +13,4 @@ General Controls
    general_controls/stepscan.rst
    general_controls/timing.rst
    general_controls/recordsaver.rst
+   general_controls/tvmonitor.rst
