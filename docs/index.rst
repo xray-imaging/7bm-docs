@@ -42,6 +42,6 @@ Contribute
 Mailing list
 ------------
 
-To subscribe to the 32-ID mailing list send an e-mail to 7-bm-owner@lists.anl.gov. 
+To subscribe to the 7-BM mailing list send an e-mail to 7-bm-owner@lists.anl.gov. 
 
 Mailing list administrators can configure the mailing list `here <https://lists.anl.gov/mailman3/lists/7-bm.lists.anl.gov/>`_.
