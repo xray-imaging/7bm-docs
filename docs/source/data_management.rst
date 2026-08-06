@@ -53,6 +53,10 @@ Done — permanently on DM
      - 44 G
      - /data2/7-BM/2026-04-Morris-1011300{,/_rec}
      - /gdata/dm/7BM/2026-04/2026-04-Morris-1011300/data/  *(mixed)*
+   * - ``2026-08-Allen-1010550`` (raw + rec)
+     - 5.7 T
+     - /data2/7-BM/2026-08-Allen-1010550{,_rec}
+     - /gdata/dm/7BM/2026-08/2026-08-Allen-1010550/{data,analysis}/
    * - ``2026-06-Boyanov-1009244`` (raw only, no rec)
      - 3.9 T
      - /data2/7-BM/2026-06-Boyanov-1009244
@@ -104,11 +108,6 @@ Pending — still on local disk, not fully archived
      - DM status
      - Action needed
      - Confirm to move
-   * - ``/data2/7-BM/2026-08-Allen-1010550`` + ``_rec``
-     - 5.7 T
-     - fully on DM (1 disposable 42 MB scratch tiff differs)
-     - safe to ``rm -rf``; awaiting user confirmation
-     - `approve → <mailto:decarlo@anl.gov?subject=DM%20delete%20approval%3A%20%2Fdata2%2F7-BM%2F2026-08-Allen-1010550&body=I%20approve%20deletion%20of%20%2Fdata2%2F7-BM%2F2026-08-Allen-1010550%20and%20_rec%20(5.7%20T%2C%20fully%20on%20DM%20except%20a%20single%2042%20MB%20scratch%20tiff).>`__
    * - ``/data2/7-BM/2026-02-Kastengren-000000``
      - 53 G
      - not on DM — dev workspace (notebooks + Jerling helical h5)
