@@ -25,6 +25,30 @@ Done — permanently on DM
      - Size
      - Removed from
      - DM location
+   * - ``2025-10-Kastengren-000000``
+     - 134 G
+     - /data3/7-BM/2025-10-Kastengren-000000
+     - /gdata/dm/7BM/2025-10/2025-10-Kastengren-000000/data/
+   * - ``2025-10-Liu-0000000`` (raw + rec)
+     - 1.75 T
+     - /data3/7-BM/2025-10-Liu-0000000{,_rec}
+     - /gdata/dm/7BM/2025-10/2025-10-Liu-0000000/data/  *(mixed)*
+   * - ``BeamMotion`` → ``2025-11-Kastengren-0``
+     - 2.0 T
+     - /data3/7-BM/BeamMotion
+     - /gdata/dm/7BM/2025-11/2025-11-Kastengren-0/data/
+   * - ``2026-02-Kastengren-000000`` (raw + rec)
+     - 5.9 T
+     - /data3/7-BM/2026-02-Kastengren-000000{,_rec}
+     - /gdata/dm/7BM/2026-02/2026-02-Kastengren-000000/data/  *(mixed)*
+   * - ``2026-02-Pathak-1018638``
+     - 7.5 T
+     - /data3/7-BM/2026-02-Pathak-1018638
+     - /gdata/dm/7BM/2026-02/2026-02-Pathak-1018638/data/
+   * - ``2026-02-Zhang-1017934``
+     - 5.7 T
+     - /data3/7-BM/2026-02-Zhang-1017934
+     - /gdata/dm/7BM/2026-02/2026-02-Zhang-1017934/data/
    * - ``2026-04-Morris-1011300`` (raw + rec)
      - 44 G
      - /data2/7-BM/2026-04-Morris-1011300{,/_rec}
@@ -110,41 +134,11 @@ Pending — still on local disk, not fully archived
      - no DM folder at all (distinct from 2026-06-Liu)
      - upload to DM
      - —
-   * - ``/data3/7-BM/2026-02-Kastengren-000000`` + ``_rec``
-     - 5.9 T
-     - fully on DM (mixed under /data)
-     - awaiting Alan approval to ``rm``
-     - `approve → <mailto:decarlo@anl.gov?subject=DM%20delete%20approval%3A%20%2Fdata3%2F7-BM%2F2026-02-Kastengren-000000&body=I%20approve%20deletion%20of%20%2Fdata3%2F7-BM%2F2026-02-Kastengren-000000%20and%20_rec%20(5.9%20T%2C%20fully%20on%20DM%20mixed%20layout).>`__
-   * - ``/data3/7-BM/2026-02-Pathak-1018638``
-     - 7.5 T
-     - fully on DM
-     - awaiting Alan approval to ``rm``
-     - `approve → <mailto:decarlo@anl.gov?subject=DM%20delete%20approval%3A%20%2Fdata3%2F7-BM%2F2026-02-Pathak-1018638&body=I%20approve%20deletion%20of%20%2Fdata3%2F7-BM%2F2026-02-Pathak-1018638%20(7.5%20T%2C%20fully%20on%20DM).>`__
-   * - ``/data3/7-BM/2026-02-Zhang-1017934``
-     - 5.7 T
-     - fully on DM
-     - awaiting Alan approval to ``rm``
-     - `approve → <mailto:decarlo@anl.gov?subject=DM%20delete%20approval%3A%20%2Fdata3%2F7-BM%2F2026-02-Zhang-1017934&body=I%20approve%20deletion%20of%20%2Fdata3%2F7-BM%2F2026-02-Zhang-1017934%20(5.7%20T%2C%20fully%20on%20DM).>`__
-   * - ``/data3/7-BM/2025-10-Kastengren-000000``
-     - 134 G
-     - on DM (loses 2 KB ``tomocupy.conf``)
-     - awaiting Alan approval to ``rm``
-     - `approve → <mailto:decarlo@anl.gov?subject=DM%20delete%20approval%3A%20%2Fdata3%2F7-BM%2F2025-10-Kastengren-000000&body=I%20approve%20deletion%20of%20%2Fdata3%2F7-BM%2F2025-10-Kastengren-000000%20(134%20G%2C%20on%20DM%20except%20a%202%20KB%20tomocupy.conf).>`__
-   * - ``/data3/7-BM/2025-10-Liu-0000000`` + ``_rec``
-     - 1.75 T
-     - fully on DM (mixed under /data)
-     - awaiting Alan approval to ``rm``
-     - `approve → <mailto:decarlo@anl.gov?subject=DM%20delete%20approval%3A%20%2Fdata3%2F7-BM%2F2025-10-Liu-0000000&body=I%20approve%20deletion%20of%20%2Fdata3%2F7-BM%2F2025-10-Liu-0000000%20and%20_rec%20(1.75%20T%2C%20fully%20on%20DM).>`__
    * - ``/data3/7-BM/2025-11-Kastengren-000000``
      - 907 G
      - **not on DM**
      - upload to DM (needs DM experiment first)
      - —
-   * - ``/data3/7-BM/BeamMotion``
-     - 2.0 T
-     - fully on DM as ``2025-11-Kastengren-0/data/`` (create-manual)
-     - awaiting Alan approval to ``rm``
-     - `approve → <mailto:decarlo@anl.gov?subject=DM%20delete%20approval%3A%20%2Fdata3%2F7-BM%2FBeamMotion&body=I%20approve%20deletion%20of%20%2Fdata3%2F7-BM%2FBeamMotion%20(2.0%20T%2C%20fully%20on%20DM%20as%202025-11-Kastengren-0%2Fdata%2F).>`__
    * - ``/data3/7-BM/test_tomocupy``
      - 125 G
      - undated, no DM lookup
