@@ -2,6 +2,14 @@
 Data Management
 ===============
 
+.. warning::
+
+   **2026-08-14 — tomodata2 disk-array failure:** the ``/data2`` mount was
+   totally lost. Any ``/data2/7-BM`` content that had **not** yet been
+   mirrored to DM is permanently gone. ``/data3/7-BM`` was unaffected.
+   The "Lost to 2026-08-14 tomodata2 failure" section below lists the 7-BM
+   items that were not on DM at the time.
+
 This page summarizes the DM (APS Data Management) status for 7-BM datasets.
 
 Convention: **Done** means the dataset was permanently moved from ``/data2/7-BM`` or
@@ -108,31 +116,6 @@ Pending — still on local disk, not fully archived
      - DM status
      - Action needed
      - Confirm to move
-   * - ``/data2/7-BM/2026-02-Kastengren-000000``
-     - 53 G
-     - not on DM — dev workspace (notebooks + Jerling helical h5)
-     - decide if archival worthwhile
-     - —
-   * - ``/data2/7-BM/2026-04-Liu-0000000``
-     - 2.0 T
-     - no DM folder at all
-     - upload to DM before delete
-     - —
-   * - ``/data2/7-BM/2026-06-Kastengren-000000`` + ``_rec``
-     - 280 G + 228 G
-     - not on DM (5 raw files + entire rec unbacked)
-     - upload to DM
-     - —
-   * - ``/data2/7-BM/2026-06-Varga-1016693``
-     - 767 G
-     - no DM folder at all
-     - upload to DM
-     - —
-   * - ``/data2/7-BM/2026-07-Liu-1021361`` + ``_rec`` (small)
-     - 63 G (16 + 47)
-     - no DM folder at all (distinct from 2026-06-Liu)
-     - upload to DM
-     - —
    * - ``/data3/7-BM/2025-11-Kastengren-000000``
      - 907 G
      - **not on DM**
@@ -143,3 +126,34 @@ Pending — still on local disk, not fully archived
      - undated, no DM lookup
      - assess necessity
      - —
+
+Lost to 2026-08-14 tomodata2 failure
+====================================
+
+The following ``/data2/7-BM`` content had NOT been mirrored to DM at the time of
+the disk-array failure and is permanently unrecoverable:
+
+.. list-table::
+   :header-rows: 1
+   :widths: auto
+
+   * - Dataset / Path
+     - Size
+     - Notes
+   * - ``/data2/7-BM/2026-02-Kastengren-000000``
+     - 53 G
+     - dev workspace (Jerling helical h5 + notebooks); never on DM
+   * - ``/data2/7-BM/2026-04-Liu-0000000``
+     - 2.0 T
+     - no DM folder ever existed
+   * - ``/data2/7-BM/2026-06-Kastengren-000000`` + ``_rec``
+     - 280 G + 228 G
+     - 5 raw files + entire rec were unbacked
+   * - ``/data2/7-BM/2026-06-Varga-1016693``
+     - 767 G
+     - no DM folder
+   * - ``/data2/7-BM/2026-07-Liu-1021361`` + ``_rec`` (small variant)
+     - 63 G (16 + 47)
+     - no DM folder (distinct from the archived 2026-06-Liu-1021361)
+
+Total lost on /data2/7-BM: ~3.4 T. Notify Alan Kastengren, Liu (7-BM), Varga.
