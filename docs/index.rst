@@ -27,7 +27,6 @@ Content
    source/radiography
    source/fluorescence
    source/optics
-   source/data_management
    source/links
    source/staff
    source/support
